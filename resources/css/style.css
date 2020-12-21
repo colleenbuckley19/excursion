@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    font-family:Verana;
+   
+    text-align: center;
+}
+.header--main{
+    font-weight: normal;
+    font-size: 50px;
+    color:white;
+}
+.link--cta{
+    color:aquamarine; 
+    font-size:16px;
+}
+.header--second{
+    color:white; 
+    font-size: 42px;
+    font-weight: 300;
+}
+.description{
+    font-size: 21px;
+    color:Gray; 
+}
+.header--bottom{
+    color:white; 
+    font-size: 42px;
+    font-weight: 300;
+}
